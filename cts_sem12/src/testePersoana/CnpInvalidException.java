@@ -1,4 +1,4 @@
-package testarePersoana;
+package testePersoana;
 
 public class CnpInvalidException extends IllegalArgumentException {
 }

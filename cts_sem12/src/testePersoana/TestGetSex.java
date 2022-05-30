@@ -1,9 +1,7 @@
-package teste;
+package testePersoana;
 
 import org.junit.Test;
-import testarePersoana.CnpInvalidException;
-import testarePersoana.IPersoana;
-import testarePersoana.Persoana;
+import persoana.Persoana;
 
 import static org.junit.Assert.*;
 

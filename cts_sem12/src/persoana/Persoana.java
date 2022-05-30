@@ -1,5 +1,7 @@
-package testarePersoana;
+package persoana;
 
+
+import testePersoana.CnpInvalidException;
 
 import java.util.Calendar;
 import java.util.concurrent.TimeUnit;
